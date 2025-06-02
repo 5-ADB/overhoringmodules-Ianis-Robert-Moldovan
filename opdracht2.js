@@ -8,3 +8,10 @@ const factuur = {
     ],
     betaald: false
 }
+
+function factuur(id, klant, producten, betaald) {
+    (this.id = id)
+    (this.klant = klant)
+    (this.producten = producten[appel, peer, banaan])
+    (this.betaald = betaald)
+}
